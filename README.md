@@ -2,6 +2,8 @@
 
 **NewsOracle — Intelligence MCP Server** — 9 tools | Part of [ToolOracle](https://tooloracle.io)
 
+[![NewsOracle MCP server](https://glama.ai/mcp/servers/ToolOracle/newsoracle/badges/card.svg)](https://glama.ai/mcp/servers/ToolOracle/newsoracle)
+
 ## Connect
 ```bash
 npx -y mcp-remote https://tooloracle.io/news/mcp/
