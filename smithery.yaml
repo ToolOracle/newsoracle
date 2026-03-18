@@ -1,0 +1,5 @@
+name: NewsOracle
+description: NewsOracle Intelligence MCP
+endpoint: https://tooloracle.io/news/mcp/
+transport: streamable-http
+license: MIT
