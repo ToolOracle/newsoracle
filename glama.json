@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "name": "newsOracle",
   "description": "News & Trends Intelligence \u2014 9 MCP tools for multi-source news",
   "repository": "https://github.com/ToolOracle/newsoracle",
@@ -6,3 +7,10 @@
   "tools": 9,
   "license": "MIT"
 }
+=======
+  "name": "NewsOracle",
+  "description": "NewsOracle Intelligence MCP",
+  "endpoint": "https://tooloracle.io/x402/news/mcp/",
+  "transport": "streamable-http"
+}
+>>>>>>> Stashed changes
